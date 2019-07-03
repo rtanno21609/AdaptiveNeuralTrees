@@ -120,7 +120,7 @@ I would like to thank
 [Daniel C. Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) at University College London, UK, 
 [Antonio Criminisi](https://scholar.google.co.uk/citations?user=YHmzvmMAAAAJ&hl=en/) at Amazon Research, 
 and [Aditya Nori](https://www.microsoft.com/en-us/research/people/adityan/) at Microsoft Research Cambridge
-for their valuation contributions to this paper. 
+for their valuable contributions to this paper. 
 
 
 
